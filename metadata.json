@@ -1,0 +1,6 @@
+{
+  "name": "College Management System - Java Spring Boot Enterprise Architect & Portfolio Studio",
+  "description": "Production-grade reference architecture, MySQL schema, Spring Boot 3 JWT Security codebase, and live responsive portal simulator for college management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
